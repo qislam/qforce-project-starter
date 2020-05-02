@@ -1,0 +1,10 @@
+{
+  "targetusername": "dev",
+  "queryFilePath": ".qforce/query.soql",
+  "queryResultsPath": ".qforce/query.csv",
+  "exeFilePath": ".qforce/exe.cls",
+  "exeResultsPath": ".qforce/exe.log",
+  "developBranch": "develop",
+  "patchPath": ".qforce/patches",
+  "migrateBasePath": ".qforce/migrate/"
+}
